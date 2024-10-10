@@ -15,9 +15,12 @@ __Ukrainian-German 🇺🇦🇩🇪 19 y.o. developer__
 <a href="https://redis.io/" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="70">
 </a>
-
-
-
+<a href="https://redis.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="Redis" width="70">
+</a>
+<a href="https://redis.io/" target="_blank">
+    <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Redis" width="70">
+</a>
 
 -- --
 

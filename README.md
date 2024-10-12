@@ -21,6 +21,12 @@ __Ukrainian-German 🇺🇦🇩🇪 19 y.o. developer__
 <a href="https://playwright.dev/" target="_blank">
     <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="70">
 </a>
+<a href="https://python-poetry.org/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/48722593?v=4" alt="Poetry" width="70">
+</a>
+<a href="https://docs.pydantic.dev/latest/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/110818415?v=4" alt="Pydantic" width="70">
+</a>
 
 -- --
 

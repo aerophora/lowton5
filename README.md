@@ -27,6 +27,9 @@ __Ukrainian-German 🇺🇦🇩🇪 19 y.o. developer__
 <a href="https://docs.pydantic.dev/latest/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/110818415?v=4" alt="Pydantic" width="70">
 </a>
+<a href="https://aiogram.dev/" target="_blank">
+    <img src="https://images.opencollective.com/aiogram/459099a/logo/256.png" alt="Aiogram" width="70">
+</a>
 
 -- --
 

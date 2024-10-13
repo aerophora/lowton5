@@ -1,4 +1,6 @@
-__Skills ⌨️__
+# __Skills ⌨️__
+
+-- --
 
 <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="70">
@@ -30,3 +32,6 @@ __Skills ⌨️__
 <a href="https://aiogram.dev/" target="_blank">
     <img src="https://images.opencollective.com/aiogram/459099a/logo/256.png" alt="Aiogram" width="70">
 </a>
+
+
+-- --

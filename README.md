@@ -1,7 +1,5 @@
 # __Skills ⌨️__
 
--- --
-
 <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="70">
 </a>
@@ -32,6 +30,7 @@
 <a href="https://aiogram.dev/" target="_blank">
     <img src="https://images.opencollective.com/aiogram/459099a/logo/256.png" alt="Aiogram" width="70">
 </a>
+<a href="https://en.wikipedia.org/wiki/MacOS" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/macos-icon-2048x2048-uavbc6sb.png" alt="MacOS" width="70">
+</a>
 
-
--- --

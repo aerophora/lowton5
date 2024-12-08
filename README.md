@@ -11,8 +11,8 @@
 
 <!-- Frameworks -->
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Aiogram-lightblue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Playwright-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-Aiogram-lightblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-Playwright-green">
 </div>
 
 <!-- Tools -->
@@ -20,7 +20,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Make-gray">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Poetry-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-Poetry-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-Sphinx-blue">
 </div>
 
 <!-- Data -->

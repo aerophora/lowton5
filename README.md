@@ -27,6 +27,7 @@
 <!-- Data -->
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redis-red">
 </div>
 

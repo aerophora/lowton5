@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b771e57-5574-44c6-8617-77bc035e5ac3" alt="Banner" style="width: 400px; height: 200px;">
+  <img src="https://github.com/user-attachments/assets/6b771e57-5574-44c6-8617-77bc035e5ac3" alt="Banner" style="width: 500px; height: 300px;">
 </p>
 
 <!-- Languages -->
@@ -8,11 +9,18 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C-gray">
 </div>
 
+<!-- Frameworks -->
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Aiogram-lightblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Playwright-green">
+</div>
+
 <!-- Tools -->
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-orange">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Make-gray">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Poetry-blue">
 </div>
 
 <!-- Data -->

@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b771e57-5574-44c6-8617-77bc035e5ac3" alt="Banner" style="width: 500px; height: 300px;">
-</p>
-
 <!-- Languages -->
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-green">
